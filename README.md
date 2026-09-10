@@ -26,7 +26,14 @@
 
 ###
 
-<p data-importer="text" align="left">I'm Sanjay S  from Coimbatore<br><br>- 🔭 I’m currently looking for entry level opportunity in data science<br>- 📚 I'm currently learning ML<br>- ⚡ In my free time I like to listen podcast</p>
+📫 How to reach me **sanjayselvamani120@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1PmBzS-IColeU2Y6eULsybbcwKuJENvCC/view?usp=sharing](https://drive.google.com/file/d/1PmBzS-IColeU2Y6eULsybbcwKuJENvCC/view?usp=sharing)
+
+
+###
+
+<p data-importer="text" align="left">I'm Sanjay S  from Erode<br><br>- 🔭 I’m currently looking for entry level opportunity in data science<br>- 📚 I'm currently learning ML<br>- ⚡ In my free time I like to listen podcast</p>
 
 ###
 
@@ -62,14 +69,4 @@
   <img src="https://cdn.simpleicons.org/pytest/0A9EDC" height="41" alt="pytest logo"  />
 </div>
 
-###
 
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
-
-###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src=""  />
-</div>
-
-###
